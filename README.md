@@ -9,7 +9,7 @@ Please enjoy this mighty javascript visualization celebrating the 2300 species o
 P.S. Don't forget to wash!
 
 REFERENCES
--
-
-JSON Data Used <a href='https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json'>samples.json</a><br>
-Citing the original inspiration <a href='https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/'>NC - The Public Science Lab</a><br>
+- Chatgpt used to improve logic, error correction and generate sections of code.
+- Google to get syntax for adapting to my code.
+- JSON Data Used <a href='https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json'>samples.json</a><br>
+- Citing the original inspiration <a href='https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/'>NC - The Public Science Lab</a><br>
