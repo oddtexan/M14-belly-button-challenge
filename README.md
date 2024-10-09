@@ -1,4 +1,4 @@
-# M14-belly-button-challenge
+# belly-button-challenge
 
 ***An interactive adventure through various belly buttons, their jungle of microbial diversity, and weekly washing frequencies!*** <br>
 
